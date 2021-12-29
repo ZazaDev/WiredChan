@@ -1,5 +1,6 @@
 # WiredChan
-4chan user style for wired people.\n
+4chan user style for wired people.
+
 Use "Tomorrow" theme for the best experience.
 
 User style preview:
